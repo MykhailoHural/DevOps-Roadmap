@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "3be7f6c839562f31",
+    "type": "split",
+    "children": [
+      {
+        "id": "be38019a6093a85f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c4a4f2bcac77b16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Fundamentals/01 - Networking/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18b623403978edac",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf3ea1b82e2eb346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a41f35a9675c27b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "41d72976f57d36ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "45f89726a00bf8e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "881add548fbffaf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9708dde5119040b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "211137f8975f63ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Fundamentals/01 - Networking/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3aae368d2f31e389",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Fundamentals/01 - Networking/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6cb9f81f010af103",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d152d8ecede4c4ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4717f6a4bdd8327b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Fundamentals/01 - Networking/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6c4a4f2bcac77b16",
+  "lastOpenFiles": [
+    "networking/Список відео до перегляду.md",
+    "networking/Network fundamental/Вижимка - Network fundamental.md",
+    "networking/Network fundamental/Network Fundamentals 18 Part 6 6 - транскрипт.md",
+    "networking/Network fundamental/Network Fundamentals 18 Part 5 6 - транскрипт.md",
+    "networking/Network fundamental/Network Fundamentals 18 Part 4 6 - транскрипт.md",
+    "networking/Network fundamental/Network Fundamentals 18 Part 3 6 - транскрипт.md",
+    "networking/Network fundamental/Network Fundamentals 18 Part 2 6 - транскрипт.md",
+    "networking/Network fundamental/Network Fundamentals 18 Part 1 6 - транскрипт.md",
+    "networking/GCP Certification_ Professional Cloud Network Engineer/GCP Certification Professional Cloud Network Engineer_VPC Firewalls Routing IAM Cloud DNS Network Peering and Shared VPC - транскрипт.md",
+    "networking/GCP Certification_ Professional Cloud Network Engineer/GCP Certification Professional Cloud Network Engineer_Load Balancer Managed instance groups Cloud Armor Cloud CDN GKE - транскрипт.md",
+    "networking/GCP Certification_ Professional Cloud Network Engineer/GCP Certification Professional Cloud Network Engineer_Cloud VPN Interconnect and Peering Private Networking Cloud Deployment Manager - транскрипт.md",
+    "networking/GCP Certification_ Professional Cloud Network Engineer/GCP Certification Exam Tips and Tricks - транскрипт.md",
+    "networking/CS Basics 04 - Computer Networks/HTTP Protocol - транскрипт.md",
+    "networking/CS Basics 04 - Computer Networks/DevOps Essentials Topic Networking - транскрипт.md",
+    "networking/CS Basics 04 - Computer Networks/9 Tracert and ping - транскрипт.md",
+    "networking/CS Basics 04 - Computer Networks/8 IP protocol - транскрипт.md",
+    "networking/CS Basics 04 - Computer Networks/7 Network layer - транскрипт.md",
+    "networking/CS Basics 04 - Computer Networks/6 Building a network - транскрипт.md",
+    "networking/CS Basics 04 - Computer Networks/5 Wireshark - транскрипт.md",
+    "networking/CS Basics 04 - Computer Networks/4 Data Link layer - транскрипт.md",
+    "networking/CS Basics 04 - Computer Networks/3 Physical Layer - транскрипт.md",
+    "networking/CS Basics 04 - Computer Networks/2 OSI TCP model - транскрипт.md",
+    "networking/CS Basics 04 - Computer Networks/11 Domain Name System - транскрипт.md",
+    "networking/CS Basics 04 - Computer Networks/10 UDP TCP - транскрипт.md",
+    "networking/CS Basics 04 - Computer Networks/1 Networks Concept - транскрипт.md",
+    "networking/Basic networking/6 TCPIP model - транскрипт.md",
+    "networking/Network fundamental/Network Fundamentals 18 Part 6 6.mp4",
+    "networking/Network fundamental/Network Fundamentals 18 Part 5 6.mp4",
+    "networking/Network fundamental/Network Fundamentals 18 Part 4 6.mp4",
+    "networking/Network fundamental/Network Fundamentals 18 Part 3 6.mp4",
+    "networking/Network fundamental/Network Fundamentals 18 Part 2 6.mp4",
+    "networking/Network fundamental/Network Fundamentals 18 Part 1 6.mp4",
+    "networking/Network fundamental",
+    "networking/GCP Certification_ Professional Cloud Network Engineer/GCP Certification Professional Cloud Network Engineer_VPC Firewalls Routing IAM Cloud DNS Network Peering and Shared VPC.mp4",
+    "networking/GCP Certification_ Professional Cloud Network Engineer/GCP Certification Professional Cloud Network Engineer_Load Balancer Managed instance groups Cloud Armor Cloud CDN GKE.mp4",
+    "networking/GCP Certification_ Professional Cloud Network Engineer/GCP Certification Professional Cloud Network Engineer_Cloud VPN Interconnect and Peering Private Networking Cloud Deployment Manager.mp4"
+  ]
+}
